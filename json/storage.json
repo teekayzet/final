@@ -1,0 +1,30 @@
+{
+    "location": "Harare",
+    "temperature": 72,
+    "cloud": "light rain",
+    "humidity": 60,
+    "wind_speed": 10
+}
+{
+    "location": "New York",
+    "temperature": 72,
+    "cloud": "partly cloudy",
+    "humidity": 60,
+    "wind_speed": 10
+}
+{
+    "location": "Germany",
+    "temperature": 72,
+    "cloud": "partly cloudy",
+    "humidity": 60,
+    "wind_speed": 10
+}
+{
+    "location": "London",
+    "temperature": 72,
+    "cloud": "overcast",
+    "humidity": 90,
+    "wind_speed": 6
+}
+
+  
